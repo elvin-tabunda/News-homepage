@@ -387,5 +387,7 @@ h1 {
         
     }
 
-
+    .nav-bar-mobile {
+        display: block;
+    }
 }
