@@ -244,7 +244,9 @@ h1 {
     position: relative;
 }
 
-
+.nav-bar-mobile {
+    display: none;
+}
 
 
 /* ####  M O B I L E ####### */
